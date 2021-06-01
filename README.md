@@ -1,4 +1,4 @@
 # my_portfolio
 terminal style portfolio using winbox 
 
-<a href="" target="-_blank">got to portfolio</a>
+## site is published at <a href="" target=" https://chammansahu.github.io/my-portfolio/_blank">watch live click here </a>
